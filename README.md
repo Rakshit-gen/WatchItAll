@@ -9,7 +9,6 @@ Node.js Backend: Utilizes Node.js for backend development, providing a robust se
 API Integration: Implements API-based integrations to enhance project functionality.
 ## Technologies Used
 Frontend:
-
 React.js
 HTML
 CSS
