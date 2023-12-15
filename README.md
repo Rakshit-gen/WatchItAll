@@ -18,22 +18,6 @@ Backend:
 Node.js
 Express.js
 Getting Started
-## Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/watchitall.git
-cd watchitall
-Install Dependencies:
-
-Copy code
-npm install
-Start the Development Server:
-
-sql
-Copy code
-npm start
-The application will be accessible at http://localhost:3000 by default.
 
 ## Project Structure
 src/: Contains the react source code.
