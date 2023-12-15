@@ -14,10 +14,9 @@ React.js
 HTML
 CSS
 Backend:
-
 Node.js
 Express.js
-Getting Started
+
 
 ## Project Structure
 src/: Contains the react source code.
